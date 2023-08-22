@@ -184,9 +184,8 @@ print(node1.data, end=' ')
 print(node1.link.data, end=' ')
 print(node1.link.link.data, end=' ')
 print(node1.link.link.link.data, end=' ')
-print(node1.link.link.link.link.data, end=' ')
-print(node1.link.link.link.link.link.data, end=' ')
-
+#print(node1.link.link.link.link.data, end=' ')
+#print(node1.link.link.link.link.link.data, end=' ')
 
 # 4-02
 
